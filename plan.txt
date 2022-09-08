@@ -1,0 +1,5 @@
+1. nice register page
+2. nice login page
+3. connect mongodb
+4. jwt for auth
+5. password hashes stored instead of actual password
